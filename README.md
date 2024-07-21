@@ -1,5 +1,5 @@
 # Chocolate-selling-business
-#In this project, we go to the challenges of a chocolate selling business.
+In this project, we go to the challenges of a chocolate selling business.
 
 In the first step, we will review and analyze a data frame including all the chocolates we have.
 In the second step, by examining the types of chocolates, we will try to identify those that can be sold and determine their prices.
